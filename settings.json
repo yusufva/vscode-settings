@@ -1,0 +1,267 @@
+{
+    "workbench.colorTheme": "Kanagawa",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.associations": {
+        "*.jsx": "javascriptreact",
+        ".env*": "dotenv",
+        "exclude": "raw",
+        ".env": "env",
+        "*.txt": "tex"
+    },
+    "editor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "remote.SSH.remotePlatform": {
+        "103.80.240.162": "linux"
+    },
+    "terminal.integrated.fontFamily": "Macon",
+    "workbench.sideBar.location": "right",
+    "workbench.colorCustomizations": {},
+    // "autoDayNightThemeSwitcher.dayTheme": "Tokyo Night Light Frameless",
+    // "autoDayNightThemeSwitcher.nightTheme": "Tokyo Night Frameless",
+    "notebook.formatOnSave.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.fontFamily": "'Dank Mono'",
+    "editor.mouseWheelZoom": true,
+    // "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+    // "editor.fontLigatures": "'calt', 'ss01'",
+    // "editor.fontLigatures": false,
+    "security.workspace.trust.enabled": false,
+    "[python]": {
+        "editor.defaultFormatter": null
+    },
+    "editor.unicodeHighlight.allowedCharacters": {
+        "ه": true,
+        "ا": true
+    },
+    "python.languageServer": "Pylance",
+    "sonarlint.rules": {
+        "Web:S4084": {
+            "level": "off"
+        },
+        "javascript:S125": {
+            "level": "off"
+        },
+        "javascript:S4123": {
+            "level": "off"
+        },
+        "python:S1192": {
+            "level": "off"
+        },
+        "python:S125": {
+            "level": "off"
+        },
+        "python:S1066": {
+            "level": "off"
+        },
+        "python:S1542": {
+            "level": "off"
+        },
+        "javascript:S3776": {
+            "level": "off"
+        },
+        "python:S2208": {
+            "level": "off"
+        },
+        "javascript:S1121": {
+            "level": "off"
+        },
+        "javascript:S3358": {
+            "level": "off"
+        },
+        "javascript:S6582": {
+            "level": "off"
+        },
+        "typescript:S3358": {
+            "level": "off"
+        }
+    },
+    "editor.linkedEditing": true,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "comment",
+                    "keyword",
+                    "constant",
+                    "entity",
+                    "string",
+                    "support",
+                    "storage",
+                    "meta",
+                    "variable",
+                    "storage.modifier",
+                    "storage.type.class.js",
+                    "storage.type.js"
+                ],
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            }
+        ]
+    },
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.ignoreErrorLanguages": ["*"],
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.5)",
+        "rgba(127,255,127,0.5)",
+        "rgba(255,127,255,0.5)",
+        "rgba(79,236,236,0.5)"
+    ],
+    "workbench.startupEditor": "none",
+    "editor.tabCompletion": "on",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.suggest.completeFunctionCalls": true,
+    "typescript.suggest.completeFunctionCalls": true,
+    "tabnine.experimentalAutoImports": true,
+    "window.titleBarStyle": "custom",
+    "vscode_vibrancy.theme": "Solarized Dark+",
+    "[scss]": {
+        "editor.defaultFormatter": null
+    },
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "terminal.integrated.env.osx": {},
+    "todo.colors.light": {
+        "tag": "#afa65a",
+        "done": "#038c01",
+        "project": "#003eff",
+        "cancelled": "#ff1902"
+    },
+    "todo.colors.dark": {
+        "done": "#0aff00",
+        "project": "#00c3ff",
+        "cancelled": "#ba1100"
+    },
+    "workbench.editor.enablePreview": false,
+    "files.exclude": {
+        "**/.git": false
+    },
+    "git.openRepositoryInParentFolders": "always",
+    "redhat.telemetry.enabled": true,
+    "colorize.include": [
+        "**/*.css",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.less",
+        "**/*.styl",
+        "**/*.js"
+    ],
+    // "console-ninja.showWhatsNew": false,
+    // "console-ninja.featureSet": "Community",
+    "[env]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[plaintext]": {
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false
+    },
+    "[dotenv]": {},
+    "editor.fontVariations": false,
+    "editor.fontWeight": "500",
+    "editor.fontSize": 14,
+    // "autoDayNightThemeSwitcher.autoToggleTimeNightBegin": "17:30",
+    "explorer.compactFolders": false,
+    // "txtsyntax.highlightColors": [
+    //   {
+    //     "light": "#b3d9ff",
+    //     "dark": "cyan"
+    //   },
+    //   {
+    //     "light": "#e6ffb3",
+    //     "dark": "pink"
+    //   },
+    //   {
+    //     "light": "#b3b3ff",
+    //     "dark": "lightgreen"
+    //   },
+    //   {
+    //     "light": "#ffd9b3",
+    //     "dark": "magenta"
+    //   },
+    //   {
+    //     "light": "#ffb3ff",
+    //     "dark": "cornflowerblue"
+    //   },
+    //   {
+    //     "light": "#b3ffb3",
+    //     "dark": "orange"
+    //   },
+    //   {
+    //     "light": "#ffff80",
+    //     "dark": "green"
+    //   },
+    //   {
+    //     "light": "#d1e0e0",
+    //     "dark": "red"
+    //   }
+    // ],
+    "[tex]": {},
+    "txtsyntax.associations": [
+        ".ini",
+        ".cf",
+        ".cnf",
+        ".conf",
+        ".cfg",
+        ".unx",
+        ".eds",
+        ".log",
+        ".out",
+        ".err",
+        ".inf",
+        ".info",
+        ".tmp",
+        ".temp",
+        ".file",
+        ".repo",
+        ".plain",
+        ".desktop",
+        ".properties",
+        ".txt"
+    ],
+    "[wat]": {},
+    "txtsyntax.defaultHighlightMode": 0,
+    "todo.embedded.exclude": [
+        "**/.*",
+        "**/.*/**",
+        "**/_output/**",
+        "**/bower_components/**",
+        "**/build/**",
+        "**/dist/**",
+        "**/venv/**",
+        "**/node_modules/**",
+        "**/out/**",
+        "**/output/**",
+        "**/release/**",
+        "**/releases/**",
+        "**/static/**",
+        "**/target/**",
+        "**/third_party/**",
+        "**/vendor/**",
+        "**/CHANGELOG",
+        "**/CHANGELOG.*",
+        "**/*.min.*",
+        "**/*.map",
+        "**/*.{3ds,3g2,3gp,7z,a,aac,adp,ai,aif,aiff,alz,ape,apk,ar,arj,asf,au,avi,bak,baml,bh,bin,bk,bmp,btif,bz2,bzip2,cab,caf,cgm,class,cmx,cpio,cr2,csv,cur,dat,dcm,deb,dex,djvu,dll,dmg,dng,doc,docm,docx,dot,dotm,dra,DS_Store,dsk,dts,dtshd,dvb,dwg,dxf,ecelp4800,ecelp7470,ecelp9600,egg,eol,eot,epub,exe,f4v,fbs,fh,fla,flac,fli,flv,fpx,fst,fvt,g3,gif,graffle,gz,gzip,h261,h263,h264,icns,ico,ief,img,ipa,iso,jar,jpeg,jpg,jpgv,jpm,jxr,key,ktx,lha,lib,lvp,lz,lzh,lzma,lzo,m3u,m4a,m4v,mar,mdi,mht,mid,midi,mj2,mka,mkv,mmr,mng,mobi,mov,movie,mp3,mp4,mp4a,mpeg,mpg,mpga,mxu,nef,npx,numbers,o,oga,ogg,ogv,otf,pages,pbm,pcx,pdb,pdf,pea,pgm,pic,png,pnm,pot,potm,potx,ppa,ppam,ppm,pps,ppsm,ppsx,ppt,pptm,pptx,psd,pya,pyc,pyo,pyv,qt,rar,ras,raw,resources,rgb,rip,rlc,rmf,rmvb,rtf,rz,s3m,s7z,scpt,sgi,shar,sil,sketch,slk,smv,so,sub,swf,tar,tbz,tbz2,tga,tgz,thmx,tif,tiff,tlz,ttc,ttf,txz,udf,uvh,uvi,uvm,uvp,uvs,uvu,viv,vob,war,wav,wax,wbmp,wdp,weba,webm,webp,whl,wim,wm,wma,wmv,wmx,woff,woff2,wvx,xbm,xif,xla,xlam,xls,xlsb,xlsm,xlsx,xlt,xltm,xltx,xm,xmind,xpi,xpm,xwd,xz,z,zip,zipx}"
+    ],
+    "todo.symbols.box": "[ ]",
+    "todo.symbols.cancelled": "[-]",
+    "todo.symbols.done": "[+]",
+    "codeium.enableConfig": {
+        "*": true
+    },
+    "prettier.tabWidth": 4,
+    "window.zoomLevel": 1,
+    "tailwind-fold.autoFold": false,
+    "tailwind-fold.foldStyle": "QUOTES",
+    "class-collapse.classCollapseToggle": false,
+    "class-collapse.openCollapseOnLineSelected": false,
+    "prisma.showPrismaDataPlatformNotification": false
+}
